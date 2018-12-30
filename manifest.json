@@ -1,8 +1,4 @@
 {
-	"files": {
-		"index.js": "f5f7788f5092ae4c9fd06cc1d7377baf8bf7e24efec6a3b7374d840943006780",
-		"module.json": "1ed76991976379170227071765ae653ede238e34953a8b38214a0dadc7e36366"
-	},
 	"defs": {
 		"S_SPAWN_ME": 3
 	}
