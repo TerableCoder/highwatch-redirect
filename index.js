@@ -5,6 +5,7 @@ module.exports = function HwRedirect(dispatch) {
 	const highwatchBanker = new Vec3(22438, 1605, 5857);
 	const treehouseBanker = new Vec3(19395, 4335, 6191);
 
+    const command = dispatch.command || dispatch.require.command;
 	let enabled = true;
 	let tree = true;
 
@@ -19,17 +20,17 @@ module.exports = function HwRedirect(dispatch) {
 		return true;
 	});
 
-	dispatch.command.add('hw', () => {
+	command.add('hw', () => {
 		enabled = !enabled;
 		command.message(enabled ? 'Highwatch Redirect enabled.' : 'Highwatch Redirect disabled.');
 	});
 	
-	dispatch.command.add('hwtree', () => {
+	command.add('hwtree', () => {
 		tree = !tree;
 		command.message(tree ? 'treehouse Redirect enabled.' : 'treehouse Redirect disabled.');
 	});
 
 	//this.destructor = function() {
-	//	dispatch.command.remove('hw');
+	//	command.remove('hw');
 	//};
 }
