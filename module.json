@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "highwatch-redirect",
+    "author": "mophiu / Terablecoder",
+    "homepage": "https://github.com/TerableCoder/highwatch-redirect",
+    "description": "A tera-proxy module that redirects the teleport location from the Vanguard merchant to the South-West Banker, when hitting Redeem button in Vanguard window.",
+    "version": "2",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/highwatch-redirect/master/"]
+}
