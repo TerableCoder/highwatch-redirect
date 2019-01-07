@@ -1,11 +1,11 @@
 {
-  "files": {
-    "index.js": "1fed17c8dacd1dd1102e5e1d8d6f27a8c77cd8588937ddd22a154748882b2780",
-    "manifest.json": "448941aa6b5526e8b40b7cd361cb870c0dadc5d68f1a134bd1a3d79311a9fad4",
-    "module.json": "12c5795fe0f390b09772d7a62d53f6a8c95229a75c5c2a2a57b0d46e69bad85c",
-    "README.md": "20100a4b574d404c1a8194e37ce5464a510b82c9868b01ac53949235329a8872"
-  }
-  "defs": {
-    "S_SPAWN_ME": 3
-  }
+	"files": {
+		"index.js": "1fed17c8dacd1dd1102e5e1d8d6f27a8c77cd8588937ddd22a154748882b2780",
+		"manifest.json": "448941aa6b5526e8b40b7cd361cb870c0dadc5d68f1a134bd1a3d79311a9fad4",
+		"module.json": "12c5795fe0f390b09772d7a62d53f6a8c95229a75c5c2a2a57b0d46e69bad85c",
+		"README.md": "20100a4b574d404c1a8194e37ce5464a510b82c9868b01ac53949235329a8872"
+	},
+	"defs": {
+		"S_SPAWN_ME": 3
+	}
 }
