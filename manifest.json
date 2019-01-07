@@ -1,11 +1,9 @@
 {
-  "files": {
-    "index.js": "1fed17c8dacd1dd1102e5e1d8d6f27a8c77cd8588937ddd22a154748882b2780",
-    "manifest.json": "190e77638e2c05f5ee1974278c12b2798d1478b177c7b71f47e44dcd7743724e",
-    "module.json": "12c5795fe0f390b09772d7a62d53f6a8c95229a75c5c2a2a57b0d46e69bad85c",
-    "Newtonsoft.Json.dll": "564e6201dbf6354460d9ca180f0752d50dd7496fff49e05f67a9af42a2e772c7",
-    "README.md": "20100a4b574d404c1a8194e37ce5464a510b82c9868b01ac53949235329a8872"
-  },
+	"files": {
+	"index.js": "1fed17c8dacd1dd1102e5e1d8d6f27a8c77cd8588937ddd22a154748882b2780",
+	"module.json": "12c5795fe0f390b09772d7a62d53f6a8c95229a75c5c2a2a57b0d46e69bad85c",
+	"README.md": "20100a4b574d404c1a8194e37ce5464a510b82c9868b01ac53949235329a8872"
+	},
 	"defs": {
 		"S_SPAWN_ME": 3
 	}
